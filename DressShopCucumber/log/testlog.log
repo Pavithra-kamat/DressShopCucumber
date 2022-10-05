@@ -37,3 +37,8 @@
 2022-10-04 13:23:12,307 - DressShop -INFO - ******** Passing search key*********
 2022-10-04 13:23:12,433 - DressShop -INFO - ******** Clicking the search button *********
 2022-10-04 13:23:14,116 - DressShop -INFO - ******** Checking the search page title *********
+2022-10-05 15:23:55,377 - DressShop -INFO - ******** Launching browser*********
+2022-10-05 15:23:55,389 - DressShop -INFO - ******** Launching Search Page*********
+2022-10-05 15:24:02,542 - DressShop -INFO - ******** Passing search key*********
+2022-10-05 15:24:02,746 - DressShop -INFO - ******** Clicking the search button *********
+2022-10-05 15:24:03,955 - DressShop -INFO - ******** Checking the search page title *********
